@@ -1,2 +1,2 @@
-# Eletric-Car
+# Electric-Car
 HTML/CSS/JS/SCSS Responsive Electric car
