@@ -1,2 +1,1 @@
-# Electric-Car
-HTML/CSS/JS/SCSS Responsive Electric car
+view the website: https://electricxcar.000webhostapp.com/
